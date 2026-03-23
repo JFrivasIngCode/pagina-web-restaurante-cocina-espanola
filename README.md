@@ -55,14 +55,6 @@ Una página web moderna y responsiva para un restaurante de cocina española con
 
 ---
 
-## 🎬 Demo
-
-> **[Insertar aquí GIF o captura de pantalla de la página en funcionamiento]**
-
-![Screenshot Principal](#)
-![Carrito de Compras](#)
-
----
 
 ## 📦 Requisitos Previos
 
@@ -304,12 +296,11 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ¿Tienes preguntas o sugerencias?
 
-- 📧 **Email:** jfrivas.email@ejemplo.com
-- 💬 **Issues:** [Crear un issue en GitHub](https://github.com/tuusuario/Pagina-web-productos/issues)
-- 🌐 **Sitio Web:** [jfrivas.com](#)
+- 📧 **Email:** fredyrivas0714@.com
+- 🌐 **Sitio Web:** [https://jfrivasingcode.github.io/acerca-de-john-fredy-rivas/](#)
 - 📱 **Redes Sociales:**
-  - Instagram: [@jfrivas](#)
-  - Facebook: [JFrivas](#)
+  - LinkedIn: [@jfrivas](#)
+  
 
 ---
 
