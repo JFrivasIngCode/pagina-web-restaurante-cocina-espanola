@@ -1,4 +1,4 @@
-# 🍽️ JFrivas - Restaurante de Cocina Española
+# <span id="top"></span> 🍽️ JFrivas - Restaurante de Cocina Española
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
@@ -12,20 +12,19 @@ Una página web moderna y responsiva para un restaurante de cocina española con
 
 ## 📋 Tabla de Contenidos
 
-- [Características](#características-claves)
-- [Demo](#demo)
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Ejemplos de Uso](#ejemplos-de-uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Características Implementadas](#características-implementadas)
+- [Características](#caracteristicas)
+- [Requisitos Previos](#requisitos)
+- [Instalación](#instalacion)
+- [Ejemplos de Uso](#ejemplos)
+- [Estructura del Proyecto](#estructura)
+- [Tecnologías Utilizadas](#tecnologias)
+- [Características Implementadas](#implementadas)
+- [Estadísticas del Proyecto](#estadisticas)
 - [Agradecimientos](#agradecimientos)
 - [Contacto](#contacto)
-
 ---
 
-## 🎯 Características Claves
+ ## <span id="caracteristicas"></span> 🎯 Características Claves
 
 ✨ **Interfaz Intuitiva**
 
@@ -56,7 +55,7 @@ Una página web moderna y responsiva para un restaurante de cocina española con
 ---
 
 
-## 📦 Requisitos Previos
+## <span id="requisitos"></span> 📦 Requisitos Previos
 
 Antes de iniciar, asegúrate de tener:
 
@@ -67,12 +66,12 @@ Antes de iniciar, asegúrate de tener:
 
 ---
 
-## 🚀 Instalación
+## <span id="instalacion"></span> 🚀 Instalación
 
 ### Paso 1: Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/Pagina-web-productos.git
+git clone https://github.com/JFrivasIngCode/Pagina-web-productos.git
 cd Pagina-web-productos
 ```
 
@@ -115,7 +114,7 @@ python -m http.server 8000
 
 ---
 
-## 💻 Ejemplos de Uso
+## <span id="ejemplos"></span> 💻 Ejemplos de Uso
 
 ### Agregar un Producto al Carrito
 
@@ -217,7 +216,7 @@ loadMoreBtn.addEventListener("click", () => {
 
 ---
 
-## 📁 Estructura del Proyecto
+## <span id="estructura"></span> 🗂️ Estructura del Proyecto
 
 ```
 Pagina-web-productos/
@@ -234,7 +233,7 @@ Pagina-web-productos/
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## <span id="tecnologias"></span> 🛠️ Tecnologías Utilizadas
 
 | Tecnología             | Versión | Uso                         |
 | ---------------------- | ------- | --------------------------- |
@@ -247,7 +246,7 @@ Pagina-web-productos/
 
 ---
 
-## ✅ Características Implementadas
+## <span id="implementadas"></span> ✅ Características Implementadas
 
 - ✔️ Carrito de compras completo
 - ✔️ Agregar/eliminar productos
@@ -271,7 +270,7 @@ Pagina-web-productos/
 
 ---
 
-## 🤝 Agradecimientos
+## <span id="agradecimientos"></span> 🙏 Agradecimientos
 
 Agradecemos sinceramente a:
 
@@ -292,7 +291,7 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ---
 
-## 📞 Contacto y Soporte
+## <span id="contacto"></span> 📞 Contacto y Soporte
 
 ¿Tienes preguntas o sugerencias?
 
@@ -304,18 +303,22 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ---
 
-## 📊 Estadísticas del Proyecto
+## <span id="estadisticas"></span> 📊 Estadísticas del Proyecto
 
-```
+
 Líneas de Código Total: ~1000
+
 ├── HTML: ~250 líneas
+
 ├── CSS: ~550 líneas
+
 └── JavaScript: ~200 líneas
+
 
 Tamaño del Proyecto: < 500 KB
 Tiempo de Carga: < 2 segundos
 Performance Score: 95/100
-```
+
 
 ---
 
@@ -325,6 +328,7 @@ Performance Score: 95/100
 
 ⭐ Si te gusta este proyecto, no olvides darle una estrella en GitHub
 
-[⬆ Volver al inicio](#-jfrivas---restaurante-de-cocina-española)
-
+[⬆ Volver al inicio](#top)
+ 
 </div>
+
